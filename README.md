@@ -18,8 +18,8 @@ This analysis translates the LOI into a tenant-focused Excel model to compare th
 **Excel skills demonstrated:** LOI term abstraction, rent schedule construction, lease cash flow analysis, NNN expense treatment, concession analysis, and scenario comparison.
 
 **Files:**
-
-- `01-medical-office-nnn-lease/overview.pdf` — scenario background, assumptions, and key findings
+- '' - Read ME Model explanation
+- `` — scenario background, assumptions, and key findings
 - `lease-analysis medical Office.xlsx` — tenant-side lease analysis model
 
 ## Scenario 2: Warehouse Acquisition and NNN Hold Analysis
