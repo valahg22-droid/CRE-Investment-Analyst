@@ -45,12 +45,12 @@ The model connects acquisition costs and financing assumptions with lease-up, re
 
 The model organizes land and development assumptions into a project-level feasibility analysis. Depending on the scenario, this may include site and building area, program and unit mix, timing, hard and soft costs, financing, lease-up or sales assumptions, and contingency. It compares projected project costs and revenues over time and highlights the assumptions that most influence feasibility. Any zoning, permitting, environmental, engineering, market, or construction assumptions are identified as inputs requiring independent verification.
 
-**Excel skills demonstrated:** Development Analysis, area and program calculations, project timing, construction-period cash flow, financing assumptions.
+**Excel skills demonstrated:** Development Analysis, area and program calculations, project timing, financing assumptions.
 
 **Files:**
 
 - `03-vacant-land-development-feasibility/overview.pdf` — scenario background, assumptions, and key findings
-- `03-vacant-land-development-feasibility/feasibility-model.xlsx` — land development feasibility model
+
 
 ## Modeling Approach
 
