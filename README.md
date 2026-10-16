@@ -6,9 +6,8 @@ Excel model analyzing the purchase of a 2,016 SF industrial warehouse that will 
 
 | File | Purpose |
 |---|---|
-| `Warehouse_NNN_130K_Down_Analysis.xlsx` | The financial model (5 tabs) |
-| `Investment_Memo_Warehouse_NNN.pdf` | 6-page investment memo with recommendation, results and rent schedule findings |
-| `Investment_Memo_Warehouse_NNN.docx` | Same memo in Word (for editing / Google Drive) |
+| `Warehouse_Acquisition.xlsx` | The financial model (5 tabs) |
+| `Warehouse_Acquisition_Investment_Analysis.pdf`| Analysis showing results and rent schedule findings |
 | `README.md` | This guide |
 
 ## Deal inputs (from the client)
