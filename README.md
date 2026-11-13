@@ -1,12 +1,12 @@
 Valeria Hernandez | Commercial Real Estate Financial Modeling Portfolio
 
-CRE Analyst · Excel Financial Modeling · Lease & Acquisition Analysis
+CRE Analysis · Excel Financial Modeling · Lease & Acquisition Analysis
 
 Central Florida · bhgrisanti@gmail.com · LinkedIn
 
 About
 
-I build Excel financial models that turn deal terms into clear numbers for decisions. This portfolio presents two projects based on real Central Florida deals: one from the tenant's side of a lease negotiation, and one from the buyer's side of an acquisition.
+I've build Excel financial models that turn deal terms into clear numbers for decisions. This portfolio presents two projects based on real Central Florida deals: one from the tenant's side of a lease negotiation, and one from the buyer's side of an acquisition.
 
 	Project	Location	Perspective
 1	Medical Office Lease Analysis	Clermont, FL	Tenant Representation
@@ -28,7 +28,7 @@ ML-README.md	Model guide: LOI terms, tabs, formulas, and assumptions
 
 Project 2: Warehouse Acquisition (Ormond Beach, FL)
 
-Context. A client planned to make an offer on a small industrial warehouse in Ormond Beach, to be leased to a tenant on a triple-net (NNN) basis. The client supplied the offer price, down payment, and lease terms. The rest of the inputs were assumptions.
+Context. A client planned to make an offer on a small industrial warehouse unit in Ormond Beach, to be leased to a tenant on a triple-net (NNN) basis. The client supplied the offer price, down payment, and lease terms. The rest of the inputs were assumptions.
 
 Why the model was built. To show the client what his proposed offer could look like as an investment before he submitted it. The model projects income and returns over 5-, 8-, and 10-year holds. It compares his down payment against a standard 70% loan-to-value loan and checks whether the property's income can comfortably cover the loan payments.
 
@@ -72,4 +72,4 @@ Names and addresses have been anonymized. Nothing here is investment, legal, or 
 
 Contact
 
-Open to CRE analyst, underwriting, and asset management opportunities. 📧 bhgrisanti@gmail.com · 🔗 LinkedIn
+Open to CRE analysis, underwriting, and Investment management opportunities. 📧 bhgrisanti@gmail.com · 🔗 LinkedIn
