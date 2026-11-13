@@ -35,6 +35,6 @@ Excel model built from a real Letter of Intent I negotiated as the tenant's brok
 - A free month is worth more on short terms: $1.33/SF at 2 years vs. $0.38/SF at 7 years.
 
 ## How this was built
-I negotiated the lease and defined the terms and analysis. I used AI assistance (Claude) to build the initial workbook structure, then rebuilt and tested the sensitivity tables myself with Excel What-If Data Tables and checked the results against the LOI (Year-1 total rent $57,375; $4,781.25/month).
+I negotiated the lease and defined the terms and analysis. I built and tested the sensitivity tables myself with Excel What-If Data Tables and checked the results against the LOI (Year-1 total rent $57,375; $4,781.25/month).
 
 Open in Excel to calculate.
